@@ -3,17 +3,30 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
 ---
 
 :::{#me}
 
 ## Goals
 
+As a passionate software engineer, my goals include:
+
+- Leveraging technology to drive actionable insights from data.
+- Building innovative and efficient solutions to real-world problems.
+- Collaborating with like-minded professionals to achieve excellence.
+
 ## Education
 
-## Experience
+I hold a Bachelor of Science in Computer Science from California State University, East Bay, where I excelled in courses like:
+
+- Data Structures & Algorithms
+- Operating Systems
+- Computer Architecture
+- Object-Oriented Programming
+
+This robust education has equipped me with a versatile skill set, enabling me to tackle complex software engineering challenges with confidence.
+
 
 :::
 
-Thanks for checking out my web site!
+Thanks for checking out my portfolio!

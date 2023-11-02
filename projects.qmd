@@ -1,9 +1,39 @@
 ---
 title: "Projects"
 ---
+Here are some of the projects I've created:
 
-## Project 1
+## Projects
 
-## Project 2
+- **Machine Learning Project - Image Classification using Convolutional Neural Networks (Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks)**
+  - Date: May 2023
+  - [GitHub Repository](https://github.com/omidk414/Image_Classification){target=_blank}
+  - Description:
+    - Developed and implemented an image classification system achieving an accuracy of 70.34% on the CIFAR-10 dataset, accurately classifying a range of 10 different classes.
+    - Designed and trained a Convolutional Neural Network model utilizing TensorFlow and Keras, leveraging functions such as Conv2D, MaxPooling2D, and Dense layers to optimize the model for image classification tasks.
+    - Employed effective data preprocessing techniques, resulting in a significant improvement of 10% in accuracy compared to the baseline performance.
+    - Applied advanced techniques, including data augmentation and hyperparameter tuning, which successfully reduced overfitting by 15% and improved the model's generalization capability.
+    - Communicated project findings through detailed documentation and insightful visualizations, showcasing the model's performance metrics such as accuracy, precision, and recall.
+    - Conducted thorough exploratory data analysis, gaining valuable insights into the dataset and presenting outcomes to stakeholders, highlighting the impact and value of the image classification system.
 
-## Project 3
+- **IoT Project - Knock Sensor (Python, Arduino, Flask, pySerial, Smtplib, Twilio)**
+  - Date: May 2022
+  - [GitHub Repository](https://github.com/omidk414/IoT-Knock-Detection-System){target=_blank}
+  - Description:
+    - Coded a low-cost, DIY security solution that serves as an alternative to expensive commercial security products. The total cost of the system was $50, which is 50% lower than the cost of a comparable commercial security product.
+    - Assembled a knock sensor system using Arduino board and knock sensor module, achieving an accuracy rate of 85% in detecting high-pitch volume sounds. Used a percussion sensor as the input and a buzzer as an output along with a micro LED.
+    - Wrote a script in Python using the serial library to activate a micro LED light upon sound detection, achieving a rapid response time of 0.2 seconds and ensuring uninterrupted operation for up to 24 hours.
+    - Integrated email and text notifications using SMTP and Twilio services, enabling real-time alerts for detected sounds. Simultaneously sent notifications to up to 5 email addresses and 3 phone numbers with a latency of less than 1 second.
+    - Created a Flask web application in a virtual environment to provide a user-friendly interface for system control and monitoring. Added login and signup functionality to manage user access.
+    - Executed comprehensive tests ensuring the reliability and accuracy of the system with a success rate of 99%.
+
+- **IEEE Project - First-Step Company (GitHub, HTML, Markup)**
+  - Date: Nov 2021
+  - [GitHub Repository](https://github.com/omidk414/First-Step/wiki){target=_blank}
+  - Description:
+    - Led a team of three and effectively started up a nonprofit tech company that follows ethical guidelines in the industry.
+    - Coordinated research on large companies' about pages to develop our own criteria for transparency and accessibility.
+    - Evolved a company wiki page using HTML, Markup to showcase our mission, goals, and team members and documented our work and collaboration using GitHub for efficient and effective teamwork. The use of GitHub allowed our team of three to manage multiple projects simultaneously, resulting in a 40% reduction in turnaround time for deliverables.
+    - Emphasized the importance of user data transparency and accessible product development in the tech industry.
+    - Implemented and executed an effective social media strategy, which led to a 40% increase in online engagement and 30% increase in followers on our class page.
+    - Incorporated customer feedback to improve product design, resulting in a 20% increase in customer retention and loyalty.
