@@ -1,2 +1,1 @@
-# Omid Khan Portfolio
-
+# Welcome to My Portfolio using Github Pages!
