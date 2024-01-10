@@ -50,7 +50,8 @@ My Career Journey:
 - **Data Analyst (Center for Student Research)**
   - Jan 2022 - May 2022 
   - Cal. State University, East Bay, Hayward, CA 
- - Research Mentor: Dr. Mokhtar Sadok, Dr. Lynne Grewe
+  - Research Mentor: Dr. Mokhtar Sadok, Dr. Lynne Grewe
+
  - Project Title: “NeuroScan”: Machine Learning Application for Brain Tumor Detection || https://github.com/omidk414/NeuroScan
     - Collaborated closely with Dr. Mokhtar Sadok and Dr. Lynne Grewe to spearhead the development of “NeuroScan”, a machine learning-driven application for the detection of brain tumors.
     - Conducted extensive research on medical imaging datasets, including MRI scans, to identify relevant features and patterns indicative of brain tumor presence.
@@ -58,3 +59,5 @@ My Career Journey:
     - Played a key role in preprocessing and cleaning datasets, contributing significantly to the development of robust and accurate models for brain tumor identification.
     - Worked alongside medical professionals and researchers on campus to validate and refine the model's performance, integrating feedback to enhance the application’s precision and sensitivity in detecting brain tumors.
     - Presented research findings and the application's progress in departmental seminars, showcasing technical expertise and the ability to effectively communicate complex concepts to diverse audiences.
+ - Citations:
+    Sadok, M. (2021, August 8). Artificial Intelligence: A paradigm shift in the pharmaceutical industry - use case of cancer detection. Digitale Transformation - jetzt die Chancen aktiv nutzen! https://www.strategy-transformation.com/artificial-intelligence-a-paradigm-shift-in-the-pharmaceutical-industry-use-case-of-cancer-detection/
