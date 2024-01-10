@@ -16,6 +16,7 @@ Here are some of the projects I've created:
     - Communicated project findings through detailed documentation and insightful visualizations, showcasing the model's performance metrics such as accuracy, precision, and recall.
     - Conducted thorough exploratory data analysis, gaining valuable insights into the dataset and presenting outcomes to stakeholders, highlighting the impact and value of the image classification system.
 
+
 - **IoT Project - Knock Sensor (Python, Arduino, Flask, pySerial, Smtplib, Twilio)**
   - Date: May 2022
   - [GitHub Repository](https://github.com/omidk414/IoT-Knock-Detection-System){target=_blank}
@@ -26,13 +27,6 @@ Here are some of the projects I've created:
     - Integrated email and text notifications using SMTP and Twilio services, enabling real-time alerts for detected sounds. Simultaneously sent notifications to up to 5 email addresses and 3 phone numbers with a latency of less than 1 second.
     - Created a Flask web application in a virtual environment to provide a user-friendly interface for system control and monitoring. Added login and signup functionality to manage user access.
     - Executed comprehensive tests ensuring the reliability and accuracy of the system with a success rate of 99%.
-
-- **NeuroScan: Machine Learning Application for Brain Tumor Detection (Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks)**
-  - Date: Jan. 2022
-  - [GitHub Repository](https://github.com/omidk414/NeuroScan){target=_blank}
-  - Description:
-    -
-
 
 
 - **IEEE Project - First-Step Company (GitHub, HTML, Markup)**
