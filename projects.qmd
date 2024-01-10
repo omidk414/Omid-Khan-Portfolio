@@ -27,6 +27,14 @@ Here are some of the projects I've created:
     - Created a Flask web application in a virtual environment to provide a user-friendly interface for system control and monitoring. Added login and signup functionality to manage user access.
     - Executed comprehensive tests ensuring the reliability and accuracy of the system with a success rate of 99%.
 
+- **NeuroScan: Machine Learning Application for Brain Tumor Detection (Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks)**
+  - Date: Jan. 2022
+  - [GitHub Repository](https://github.com/omidk414/NeuroScan){target=_blank}
+  - Description:
+    -
+
+
+
 - **IEEE Project - First-Step Company (GitHub, HTML, Markup)**
   - Date: Nov 2021
   - [GitHub Repository](https://github.com/omidk414/First-Step/wiki){target=_blank}
