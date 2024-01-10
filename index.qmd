@@ -19,6 +19,7 @@ As a passionate software engineer, my goals include:
 
 I hold a Bachelor of Science in Computer Science from California State University, East Bay, where I excelled in courses like:
 
+- Software Engineering
 - Data Structures & Algorithms
 - Operating Systems
 - Computer Architecture
