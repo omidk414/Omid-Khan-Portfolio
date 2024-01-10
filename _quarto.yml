@@ -19,7 +19,7 @@ website:
         target: _blank
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, Omid Khan"
+    left: "&copy; Copyright 2024, Omid Khan"
     
 
 format:
