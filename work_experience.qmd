@@ -46,13 +46,18 @@ My Career Journey:
     - Utilized data science techniques to analyze sensor data, identifying patterns and anomalies for predictive maintenance, resulting in a 15% decrease in equipment downtime.
     - Performed thorough testing and validation of the sensor modules, ensuring accuracy, reliability, and seamless integration into the clients platform. 
 
+- **NeuroScan: Machine Learning Application for Brain Tumor Detection (Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks)**
+  - Date: Jan. 2022
+  - [GitHub Repository](https://github.com/omidk414/NeuroScan){target=_blank}
+  - Description:
+    -
 
 - **Data Analyst (Center for Student Research)**
   - Jan 2022 - May 2022 
   - Cal. State University, East Bay, Hayward, CA 
   - Research Mentor: Dr. Mokhtar Sadok, Dr. Lynne Grewe
 
- - Project Title: “NeuroScan”: Machine Learning Application for Brain Tumor Detection || https://github.com/omidk414/NeuroScan
+ - Project Title: “NeuroScan”: Machine Learning Application for Brain Tumor Detection (Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks) || [GitHub Repository]https://github.com/omidk414/NeuroScan{target=_blank}
     - Collaborated closely with Dr. Mokhtar Sadok and Dr. Lynne Grewe to spearhead the development of “NeuroScan”, a machine learning-driven application for the detection of brain tumors.
     - Conducted extensive research on medical imaging datasets, including MRI scans, to identify relevant features and patterns indicative of brain tumor presence.
     - Applied machine learning algorithms (such as Convolutional Neural Networks and Support Vector Machines) utilizing Python and libraries like TensorFlow to analyze and classify brain images with a high degree of accuracy.
