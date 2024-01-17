@@ -7,7 +7,7 @@ My Career Journey:
   - April 2023 - Present
   - Agile Datapro [Microsoft ISV Partner], Campbell, CA
   
- - IP Product Project (Azure, Python, BlobStorage, ChatGPT 4 Turbo Key API, AI/ML, Jupyter Notebooks, Outlook, Pandas, REST, Excel):          
+ - **IP Product Project (Azure, Python, BlobStorage, ChatGPT 4 Turbo Key API, AI/ML, Jupyter Notebooks, Outlook, Pandas, REST, Excel)**:          
     - Web scrapped several sites using a Python script with Selenium API, efficiently extracting 250k resumes from Outlook, achieving a consistent average of 100 job listings per minute, and collecting an extensive dataset of over 20k job listings weekly from various websites.
     - Automated data extraction processes, resulting in saving of over 80 hours each month, significantly improving productivity and data collection rates.
     - Organized and structured large amounts of data in XLSX format; encompassing attributes such as job titles, company names, locations, detailed job descriptions, and salary information.
@@ -19,9 +19,9 @@ My Career Journey:
     - Automated scorecard generation, which resulted in 50% reduction in manual effort and saving approximately 15 hours per project cycle.
     - Tailored each score card with personalized information, including names, skills, and skill percentages, maintaining an accuracy rate of 95% in reflecting candidate profiles and skills.
     - Assisted in training the ML model to provide job recommendations and candidates, streamlining  the hiring process and improved candidate matches.
-
-
-  - Telecom Project (GCP, Python, SQL, PostgreSQL, PowerBI, Docker, ChatGPT 3.5 Turbo Key API, AI/ML, Jupyter Notebooks, Flask):
+<br>
+</br>
+  - **Telecom Project (GCP, Python, SQL, PostgreSQL, PowerBI, Docker, ChatGPT 3.5 Turbo Key API, AI/ML, Jupyter Notebooks, Flask)**:
     - Developed predictive models for a major telecom client to predict cost, utilization or social health, and deployed them on Google Cloud Platform. 
     - Utilized client staging environment to extract consumer data in JSON format for analysis and processing.
     - Integrated ChatGPT API  to the GCP on a PowerBI dashboard. Allows users to ask the chatbot about their multi-tenant dashboard content, issues, etc. 
@@ -32,9 +32,9 @@ My Career Journey:
     - Developed interactive, meaningful and user-friendly dashboards to enable quick identification of key insights and trends.
     - Ensured scalability of dashboards to accommodate additional data.
     - Compiled hyperparameter tuning pipelines for AI/machine learning and deep learning models. The framework enabled the company to train and deploy machine learning models 2 times faster, resulting in a 25% improvement in prediction accuracy.       
-
-
-  - AIoT Project (Python, Raspberry PI, OpenCV, Tensorflow, Keras):
+<br>
+</br>
+  - **AIoT Project (Python, Raspberry PI, OpenCV, Tensorflow, Keras)**:
     - Designed an AIOT solution to an client that created an online platform to teach programming in the classroom for over 50 colleges in India.
     - Developed object detection and recognition modules for a manufacturing facility, resulting in a 40% reduction in manual labor and a 20% increase in operational efficiency.
     - Obtained data sets off Kaggle, and GitHub repositories to train the model.
@@ -45,24 +45,19 @@ My Career Journey:
     - Trained object detection models using Keras and TensorFlow, enabling the system to detect objects and display their coordinates, colors, and shapes accurately.
     - Utilized data science techniques to analyze sensor data, identifying patterns and anomalies for predictive maintenance, resulting in a 15% decrease in equipment downtime.
     - Performed thorough testing and validation of the sensor modules, ensuring accuracy, reliability, and seamless integration into the clients platform. 
-
-- **NeuroScan: Machine Learning Application for Brain Tumor Detection (Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks)**
-  - Date: Jan. 2022
-  - [GitHub Repository](https://github.com/omidk414/NeuroScan){target=_blank}
-  - Description:
-    -
-
+<br>
+</br>
 - **Data Analyst (Center for Student Research)**
   - Jan 2022 - May 2022 
   - Cal. State University, East Bay, Hayward, CA 
-  - Research Mentor: Dr. Mokhtar Sadok, Dr. Lynne Grewe
+  - Research Mentors: Dr. Mokhtar Sadok, Dr. Lynne Grewe
 
- - Project Title: “NeuroScan”: Machine Learning Application for Brain Tumor Detection (Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks) || [GitHub Repository]https://github.com/omidk414/NeuroScan{target=_blank}
+ - Project Title: “**NeuroScan**”: Machine Learning Application for Brain Tumor Detection (Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks) || [GitHub Repository]https://github.com/omidk414/NeuroScan{target=_blank}
     - Collaborated closely with Dr. Mokhtar Sadok and Dr. Lynne Grewe to spearhead the development of “NeuroScan”, a machine learning-driven application for the detection of brain tumors.
     - Conducted extensive research on medical imaging datasets, including MRI scans, to identify relevant features and patterns indicative of brain tumor presence.
     - Applied machine learning algorithms (such as Convolutional Neural Networks and Support Vector Machines) utilizing Python and libraries like TensorFlow to analyze and classify brain images with a high degree of accuracy.
     - Played a key role in preprocessing and cleaning datasets, contributing significantly to the development of robust and accurate models for brain tumor identification.
     - Worked alongside medical professionals and researchers on campus to validate and refine the model's performance, integrating feedback to enhance the application’s precision and sensitivity in detecting brain tumors.
     - Presented research findings and the application's progress in departmental seminars, showcasing technical expertise and the ability to effectively communicate complex concepts to diverse audiences.
- - Citations:
-    Sadok, M. (2021, August 8). Artificial Intelligence: A paradigm shift in the pharmaceutical industry - use case of cancer detection. Digitale Transformation - jetzt die Chancen aktiv nutzen! https://www.strategy-transformation.com/artificial-intelligence-a-paradigm-shift-in-the-pharmaceutical-industry-use-case-of-cancer-detection/
+ - **Citations**:
+    - Sadok, M. (2021, August 8). Artificial Intelligence: A paradigm shift in the pharmaceutical industry - use case of cancer detection. Digitale Transformation - jetzt die Chancen aktiv nutzen! https://www.strategy-transformation.com/artificial-intelligence-a-paradigm-shift-in-the-pharmaceutical-industry-use-case-of-cancer-detection/
