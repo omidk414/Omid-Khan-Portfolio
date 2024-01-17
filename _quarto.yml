@@ -8,8 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
       - work_experience.qmd
+      - projects.qmd
+      
     tools:
       - icon: linkedin
         href: https://www.linkedin.com/in/omid-khan
