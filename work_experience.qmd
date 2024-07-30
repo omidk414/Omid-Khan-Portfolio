@@ -47,17 +47,19 @@ My Career Journey:
     - Performed thorough testing and validation of the sensor modules, ensuring accuracy, reliability, and seamless integration into the clients platform. 
 <br>
 </br>
-- **Data Analyst (Center for Student Research)**
+- **Data Science and Machine Learning Intern (Ascend Technology Inc.)**
   - Jan 2022 - May 2022 
-  - Cal. State University, East Bay, Hayward, CA 
-  - Research Mentors: Dr. Mokhtar Sadok, Dr. Lynne Grewe
+  - 1879 Lundy Ave STE 289, San Jose, CA 95131
+  - Research Mentors: Dr. Mokhtar Sadok, Dr. Indranil Mukhopadhyay, Dr. Mohammad Akram Hossain
+  - *GitHub Repository: [NeuroScan](https://github.com/omidk414/NeuroScan)*
 
- - Project Title: “**NeuroScan**”: Machine Learning Application for Brain Tumor Detection (Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks) || [GitHub Repository]https://github.com/omidk414/NeuroScan{target=_blank}
-    - Collaborated closely with Dr. Mokhtar Sadok and Dr. Lynne Grewe to spearhead the development of “NeuroScan”, a machine learning-driven application for the detection of brain tumors.
-    - Conducted extensive research on medical imaging datasets, including MRI scans, to identify relevant features and patterns indicative of brain tumor presence.
-    - Applied machine learning algorithms (such as Convolutional Neural Networks and Support Vector Machines) utilizing Python and libraries like TensorFlow to analyze and classify brain images with a high degree of accuracy.
-    - Played a key role in preprocessing and cleaning datasets, contributing significantly to the development of robust and accurate models for brain tumor identification.
-    - Worked alongside medical professionals and researchers on campus to validate and refine the model's performance, integrating feedback to enhance the application’s precision and sensitivity in detecting brain tumors.
-    - Presented research findings and the application's progress in departmental seminars, showcasing technical expertise and the ability to effectively communicate complex concepts to diverse audiences.
+ - Project Title: “NeuroScan” – Machine Learning Application for Brain Tumor Detection
+ - Technologies: Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks
+    - Collaborated with Dr. Mokhtar Sadok, Dr. Indranil Mukhopadhyay, and Dr. Mohammad Akram Hossain to develop “NeuroScan,” a machine learning application designed for brain tumor detection.
+    - Conducted extensive research on medical imaging datasets, including MRI scans, to identify features and patterns indicative of brain tumors.
+    - Utilized machine learning algorithms such as Convolutional Neural Networks (CNNs) and Support Vector Machines (SVMs) with Python and TensorFlow to analyze and classify brain images, achieving high accuracy rates.
+    - Led efforts in preprocessing and cleaning datasets to ensure robust and accurate models for tumor detection.
+    - Worked closely with medical professionals to validate and refine the model’s performance, incorporating feedback to enhance precision and sensitivity.
+    - Presented the project's progress and findings in departmental seminars, showcasing technical skills and the ability to communicate complex concepts effectively.
  - **Citations**:
     - Sadok, M. (2021, August 8). Artificial Intelligence: A paradigm shift in the pharmaceutical industry - use case of cancer detection. Digitale Transformation - jetzt die Chancen aktiv nutzen! https://www.strategy-transformation.com/artificial-intelligence-a-paradigm-shift-in-the-pharmaceutical-industry-use-case-of-cancer-detection/
