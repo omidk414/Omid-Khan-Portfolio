@@ -1,4 +1,4 @@
- ---
+---
 title: "About Me"
 about:
   id: me
@@ -27,7 +27,12 @@ I hold a Bachelor of Science in Computer Science from California State Universit
 
 This robust education has equipped me with a versatile skill set, enabling me to tackle complex software engineering challenges with confidence.
 
-
 :::
 
-Thanks for checking out my portfolio!
+<p>Thanks for checking out my portfolio!</p>
+
+<p>Hover over this text: 
+<span class="hover-letter" data-hover="Passionate">P</span>
+<span class="hover-letter" data-hover="Innovative">I</span>
+<span class="hover-letter" data-hover="Collaborative">C</span>
+</p>
