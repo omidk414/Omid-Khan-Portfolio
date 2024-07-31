@@ -27,6 +27,7 @@ format:
   html:
     theme: cerulean
     toc: true
+    css: styles.css  # Link to your custom CSS file
 
 editor: source
 

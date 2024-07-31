@@ -1,0 +1,54 @@
+/* General body styling */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font: 300 11px/1.4 'Helvetica Neue', 'sans-serif';
+  color: #444;
+  background: #F8F9F9;
+  overflow: hidden;
+  display: block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Hover letter effect */
+.hover-letter {
+  position: relative;
+  display: inline-block;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.hover-letter:hover {
+  transform: translateY(-10px);
+  color: #ff6f61;
+}
+
+/* Popup letter on hover */
+.hover-letter::after {
+  content: attr(data-hover);
+  position: absolute;
+  top: -30px;
+  left: 0;
+  background: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  font-size: 12px;
+  pointer-events: none;
+}
+
+.hover-letter:hover::after {
+  opacity: 1;
+}
+
+/* Responsive overflow */
+@media screen and (max-width: 1200px) {
+  body {
+    overflow: visible;
+  }
+}

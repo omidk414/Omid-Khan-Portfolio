@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Welcome To My Portfolio!</title>
+<title>Welcome To My Portfolio! - About Me</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -61,9 +60,10 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -105,32 +105,24 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+
+
+<div class="quarto-about-broadside column-page">
+  <div class="about-main">
+    <div class="about-entity" style="background-image: url('')"></div>
+    <div class="about-contents"><header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">About Me</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-</header>
-
-<div id="me">
+</header><div id="me">
 <section id="goals" class="level2">
-<h2 class="anchored" data-anchor-id="goals">Goals</h2>
+<h2 data-anchor-id="goals">Goals</h2>
 <p>As a passionate software engineer, my goals include:</p>
 <ul>
 <li>Leveraging technology to drive actionable insights from data.</li>
@@ -139,7 +131,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 </section>
 <section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
+<h2 data-anchor-id="education">Education</h2>
 <p>I hold a Bachelor of Science in Computer Science from California State University, East Bay, where I excelled in courses like:</p>
 <ul>
 <li>Software Engineering</li>
@@ -150,8 +142,17 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>This robust education has equipped me with a versatile skill set, enabling me to tackle complex software engineering challenges with confidence.</p>
 </section>
+</div></div>
+  </div>
 </div>
-<p>Thanks for checking out my portfolio!</p>
+
+<p>
+Thanks for checking out my portfolio!
+</p>
+<p>
+Hover over this text: <span class="hover-letter" data-hover="Passionate">P</span> <span class="hover-letter" data-hover="Innovative">I</span> <span class="hover-letter" data-hover="Collaborative">C</span>
+</p>
+
 
 
 
@@ -176,13 +177,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
