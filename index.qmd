@@ -1,38 +1,49 @@
 ---
-title: "About Me"
-about:
-  id: me
-  template: broadside
+title: "Home"
+title-block-banner: false
 ---
 
-:::{#me}
+<div id="particles" aria-hidden="true"><canvas id="network-canvas"></canvas></div>
 
-## Goals
+<section class="hero reveal">
+  <div class="eyebrow"><span class="status-dot"></span> DATA ENGINEERING · AI/ML · SOFTWARE</div>
+  <h1>Hi, I'm <span class="gradient-text">Omid Khan.</span></h1>
+  <p class="hero-subtitle">I build <span id="typed-text">intelligent data systems</span><span class="cursor">|</span></p>
+  <p class="hero-description">Data engineer and computer scientist building scalable pipelines, practical machine learning, and products that turn complex information into useful decisions. M.S. in Data Science from UC Berkeley.</p>
+  <div class="hero-actions"><a class="btn-primary" href="projects.qmd">Explore my projects <span>↗</span></a><a class="btn-secondary" href="work_experience.qmd">View experience</a></div>
+  <div class="social-links"><a href="https://github.com/omidk414" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a href="https://www.linkedin.com/in/omid-khan" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></div>
+</section>
 
-As a passionate software engineer, my goals include:
+<section class="content-section reveal">
+  <div class="section-kicker">01 / ABOUT</div>
+  <h2>Engineering at the intersection of <span class="gradient-text">data and intelligence.</span></h2>
+  <p class="section-intro">My work spans production data workflows, cloud analytics, applied machine learning, and AI evaluation. I enjoy turning difficult technical problems into reliable, usable systems.</p>
+  <div class="stats-grid">
+    <div class="stat-card"><strong>250K+</strong><span>Resumes processed in a data automation project</span></div>
+    <div class="stat-card"><strong>80+</strong><span>Manual hours saved per month</span></div>
+    <div class="stat-card"><strong>85%</strong><span>Reduction in manual data-entry errors</span></div>
+  </div>
+</section>
 
-- Leveraging technology to drive actionable insights from data.
-- Building innovative and efficient solutions to real-world problems.
-- Collaborating with like-minded professionals to achieve excellence.
+<section class="content-section reveal">
+  <div class="section-kicker">02 / EXPERTISE</div>
+  <h2>My technical toolkit</h2>
+  <div class="bento-grid">
+    <article class="feature-card"><div class="card-icon">⌘</div><h3>Data Engineering</h3><p>ETL pipelines, orchestration, analytics, and data quality.</p><div class="tags"><span>Python</span><span>SQL</span><span>Airflow</span><span>PostgreSQL</span></div></article>
+    <article class="feature-card"><div class="card-icon">◈</div><h3>Cloud & Analytics</h3><p>Cloud-based processing, dashboards, and decision support.</p><div class="tags"><span>Azure</span><span>GCP</span><span>Power BI</span><span>Docker</span></div></article>
+    <article class="feature-card"><div class="card-icon">✧</div><h3>AI & Machine Learning</h3><p>Predictive modeling, computer vision, and model evaluation.</p><div class="tags"><span>TensorFlow</span><span>PyTorch</span><span>scikit-learn</span><span>LLMs</span></div></article>
+    <article class="feature-card"><div class="card-icon">{ }</div><h3>Software Development</h3><p>Automation, APIs, web applications, and developer tooling.</p><div class="tags"><span>JavaScript</span><span>Flask</span><span>Git</span><span>REST</span></div></article>
+  </div>
+</section>
 
-## Education
+<section class="content-section reveal">
+  <div class="section-kicker">03 / SELECTED WORK</div>
+  <div class="section-heading-row"><h2>Projects & impact</h2><a class="text-link" href="projects.qmd">All projects ↗</a></div>
+  <div class="project-grid">
+    <article class="project-card"><div class="project-top"><span class="project-number">01 / MACHINE LEARNING</span><span class="project-symbol">↗</span></div><h3>CIFAR-10 Image Classification</h3><p>Convolutional neural network for classifying images across ten categories, achieving 70.34% test accuracy.</p><div class="tags"><span>Python</span><span>TensorFlow</span><span>Keras</span></div><a class="stretched-link" href="https://github.com/omidk414/Image_Classification" target="_blank" rel="noopener noreferrer" aria-label="View CIFAR-10 project on GitHub"></a></article>
+    <article class="project-card"><div class="project-top"><span class="project-number">02 / IOT</span><span class="project-symbol">↗</span></div><h3>Smart Knock Detection</h3><p>Arduino-based security prototype with Python event processing, notifications, and a Flask interface.</p><div class="tags"><span>Arduino</span><span>Python</span><span>Flask</span></div><a class="stretched-link" href="https://github.com/omidk414/IoT-Knock-Detection-System" target="_blank" rel="noopener noreferrer" aria-label="View knock detection project on GitHub"></a></article>
+    <article class="project-card"><div class="project-top"><span class="project-number">03 / COMPUTER VISION</span><span class="project-symbol">↗</span></div><h3>NeuroScan</h3><p>Research project exploring brain tumor detection using medical imaging and machine learning classifiers.</p><div class="tags"><span>OpenCV</span><span>Python</span><span>ML</span></div><a class="stretched-link" href="https://github.com/omidk414/NeuroScan" target="_blank" rel="noopener noreferrer" aria-label="View NeuroScan project on GitHub"></a></article>
+  </div>
+</section>
 
-I hold a Bachelor of Science in Computer Science from California State University, East Bay, where I excelled in courses like:
-
-- Software Engineering
-- Data Structures & Algorithms
-- Operating Systems
-- Computer Architecture
-- Object-Oriented Programming
-
-This robust education has equipped me with a versatile skill set, enabling me to tackle complex software engineering challenges with confidence.
-
-:::
-
-<p>Thanks for checking out my portfolio!</p>
-
-<p>Hover over this text: 
-<span class="hover-letter" data-hover="Passionate">P</span>
-<span class="hover-letter" data-hover="Innovative">I</span>
-<span class="hover-letter" data-hover="Collaborative">C</span>
-</p>
+<section class="contact-section reveal"><div class="section-kicker">04 / CONNECT</div><h2>Let's build something <span class="gradient-text">meaningful.</span></h2><p>Interested in data engineering, AI, and ambitious software projects? Let's connect.</p><a class="btn-primary" href="https://www.linkedin.com/in/omid-khan" target="_blank" rel="noopener noreferrer">Connect on LinkedIn ↗</a></section>

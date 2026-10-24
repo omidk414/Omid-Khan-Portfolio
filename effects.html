@@ -1,0 +1,14 @@
+<script>
+(function(){
+ const reduced=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+ const elements=document.querySelectorAll('.reveal');
+ if(!('IntersectionObserver' in window)||reduced){elements.forEach(e=>e.classList.add('visible'));}else{const obs=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){e.target.classList.add('visible');obs.unobserve(e.target)}}),{threshold:.1});elements.forEach(e=>obs.observe(e));}
+ const typed=document.getElementById('typed-text');
+ if(typed&&!reduced){const words=['intelligent data systems','scalable pipelines','machine learning solutions','useful software'];let word=0,pos=0,back=false;function tick(){const current=words[word];typed.textContent=current.slice(0,pos);if(!back&&pos<current.length)pos++;else if(!back){back=true;setTimeout(tick,1600);return}else if(pos>0)pos--;else{back=false;word=(word+1)%words.length}setTimeout(tick,back?42:85)}tick()}
+ const canvas=document.getElementById('network-canvas');if(!canvas||reduced)return;
+ const ctx=canvas.getContext('2d');if(!ctx)return;let w=0,h=0,nodes=[],frame=0;
+ function resize(){w=canvas.width=window.innerWidth;h=canvas.height=window.innerHeight;const count=Math.min(65,Math.floor(w*h/19000));nodes=Array.from({length:count},()=>({x:Math.random()*w,y:Math.random()*h,vx:(Math.random()-.5)*.35,vy:(Math.random()-.5)*.35}))}
+ function draw(){if(document.hidden){requestAnimationFrame(draw);return}frame++;ctx.clearRect(0,0,w,h);for(let i=0;i<nodes.length;i++){let a=nodes[i];a.x+=a.vx;a.y+=a.vy;if(a.x<0||a.x>w)a.vx*=-1;if(a.y<0||a.y>h)a.vy*=-1;ctx.fillStyle='rgba(85,214,255,.5)';ctx.beginPath();ctx.arc(a.x,a.y,1.6,0,Math.PI*2);ctx.fill();for(let j=i+1;j<nodes.length;j++){let b=nodes[j],d=Math.hypot(a.x-b.x,a.y-b.y);if(d<145){ctx.strokeStyle='rgba(85,214,255,'+(0.17*(1-d/145))+')';ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke()}}}requestAnimationFrame(draw)}
+ window.addEventListener('resize',resize,{passive:true});resize();draw();
+})();
+</script>

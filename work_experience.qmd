@@ -1,65 +1,14 @@
 ---
-title: "Professional Experience"
+title: "Experience"
+title-block-banner: false
 ---
-My Career Journey:
 
-- **Junior Data Engineer (I.T Services | Digital & Product Solutions)**
-  - April 2023 - Present
-  - Agile Datapro [Microsoft ISV Partner], Campbell, CA
-  
- - **IP Product Project (Azure, Python, BlobStorage, ChatGPT 4 Turbo Key API, AI/ML, Jupyter Notebooks, Outlook, Pandas, REST, Excel)**:          
-    - Web scrapped several sites using a Python script with Selenium API, efficiently extracting 250k resumes from Outlook, achieving a consistent average of 100 job listings per minute, and collecting an extensive dataset of over 20k job listings weekly from various websites.
-    - Automated data extraction processes, resulting in saving of over 80 hours each month, significantly improving productivity and data collection rates.
-    - Organized and structured large amounts of data in XLSX format; encompassing attributes such as job titles, company names, locations, detailed job descriptions, and salary information.
-    - Ensured quality data extraction and consistency, reducing data preparation time by 70%, facilitating efficient data analysis, and reporting.
-    - Implemented data storage procedures, efficiently saving collected data to XLSX files, including a system that dynamically checks and adds missing headers to enhance data management efficiency and eliminate potential errors.
-    - Created data transfer pipelines to Blob Storage, delivering a 85% reduction in manual data entry errors.
-    - Conducted data preprocessing, systematically removing duplicates, and efficiently categorizing data by industry buckets, enhancing data quality by 80%.
-    - Parsed and extracted critical information, including names, job titles, emails, resume contents, and top 5 skills from each resume to train the ML model and in order to generate score cards.
-    - Automated scorecard generation, which resulted in 50% reduction in manual effort and saving approximately 15 hours per project cycle.
-    - Tailored each score card with personalized information, including names, skills, and skill percentages, maintaining an accuracy rate of 95% in reflecting candidate profiles and skills.
-    - Assisted in training the ML model to provide job recommendations and candidates, streamlining  the hiring process and improved candidate matches.
-<br>
-</br>
-  - **Telecom Project (GCP, Python, SQL, PostgreSQL, PowerBI, Docker, ChatGPT 3.5 Turbo Key API, AI/ML, Jupyter Notebooks, Flask)**:
-    - Developed predictive models for a major telecom client to predict cost, utilization or social health, and deployed them on Google Cloud Platform. 
-    - Utilized client staging environment to extract consumer data in JSON format for analysis and processing.
-    - Integrated ChatGPT API  to the GCP on a PowerBI dashboard. Allows users to ask the chatbot about their multi-tenant dashboard content, issues, etc. 
-    - Built the chatbot using Microsoft Virtual Agent (interface for chatbot), and that Agent had an automated flow using Power Automate.
-    - Conducted and drove the adoption of enterprise-wide analytics to support strategic execution using prescriptive and predictive analytics with a specialty in the Finance, Quality and Utilization domains.
-    - Created visually appealing dashboards for data analysis and visualization using BI and PostgreSQL.
-    - Tailored the dashboards to meet client requirements and presented complex data sets in a clear and concise manner.
-    - Developed interactive, meaningful and user-friendly dashboards to enable quick identification of key insights and trends.
-    - Ensured scalability of dashboards to accommodate additional data.
-    - Compiled hyperparameter tuning pipelines for AI/machine learning and deep learning models. The framework enabled the company to train and deploy machine learning models 2 times faster, resulting in a 25% improvement in prediction accuracy.       
-<br>
-</br>
-  - **AIoT Project (Python, Raspberry PI, OpenCV, Tensorflow, Keras)**:
-    - Designed an AIOT solution to an client that created an online platform to teach programming in the classroom for over 50 colleges in India.
-    - Developed object detection and recognition modules for a manufacturing facility, resulting in a 40% reduction in manual labor and a 20% increase in operational efficiency.
-    - Obtained data sets off Kaggle, and GitHub repositories to train the model.
-    - Created an ETL pipeline using Python, and preprocessed the data to find null values.
-    - Collaborated on the integration of IR sensors for real-time object recognition and tracking, streamlining manufacturing processes and improving productivity.
-    - Assisted in the design and implementation of an ultrasonic sensor module for precise object placement, achieving a 15% reduction in errors.
-    - Utilized advanced data science techniques to analyze sensor data, leading to a 25% reduction in equipment downtime.
-    - Trained object detection models using Keras and TensorFlow, enabling the system to detect objects and display their coordinates, colors, and shapes accurately.
-    - Utilized data science techniques to analyze sensor data, identifying patterns and anomalies for predictive maintenance, resulting in a 15% decrease in equipment downtime.
-    - Performed thorough testing and validation of the sensor modules, ensuring accuracy, reliability, and seamless integration into the clients platform. 
-<br>
-</br>
-- **Data Science and Machine Learning Intern (Ascend Technology Inc.)**
-  - Jan 2022 - May 2022 
-  - 1879 Lundy Ave STE 289, San Jose, CA 95131
-  - Research Mentors: Dr. Mokhtar Sadok, Dr. Indranil Mukhopadhyay, Dr. Mohammad Akram Hossain
-  - *GitHub Repository: [NeuroScan](https://github.com/omidk414/NeuroScan)*
+<div class="page-intro reveal"><div class="section-kicker">CAREER & EDUCATION</div><h1>Experience that <span class="gradient-text">delivers.</span></h1><p>Building data products, automation, and intelligent systems across industry and research.</p></div>
 
- - Project Title: “NeuroScan” – Machine Learning Application for Brain Tumor Detection
- - Technologies: Python, TensorFlow, Keras, OpenCV, Jupyter Notebooks
-    - Collaborated with Dr. Mokhtar Sadok, Dr. Indranil Mukhopadhyay, and Dr. Mohammad Akram Hossain to develop “NeuroScan,” a machine learning application designed for brain tumor detection.
-    - Conducted extensive research on medical imaging datasets, including MRI scans, to identify features and patterns indicative of brain tumors.
-    - Utilized machine learning algorithms such as Convolutional Neural Networks (CNNs) and Support Vector Machines (SVMs) with Python and TensorFlow to analyze and classify brain images, achieving high accuracy rates.
-    - Led efforts in preprocessing and cleaning datasets to ensure robust and accurate models for tumor detection.
-    - Worked closely with medical professionals to validate and refine the model’s performance, incorporating feedback to enhance precision and sensitivity.
-    - Presented the project's progress and findings in departmental seminars, showcasing technical skills and the ability to communicate complex concepts effectively.
- - **Citations**:
-    - Sadok, M. (2021, August 8). Artificial Intelligence: A paradigm shift in the pharmaceutical industry - use case of cancer detection. Digitale Transformation - jetzt die Chancen aktiv nutzen! https://www.strategy-transformation.com/artificial-intelligence-a-paradigm-shift-in-the-pharmaceutical-industry-use-case-of-cancer-detection/
+<section class="content-section reveal"><div class="section-kicker">PROFESSIONAL EXPERIENCE</div><div class="timeline">
+<div class="timeline-item"><div class="timeline-date">MAY 2024 — PRESENT</div><div class="timeline-content"><h3>AI Training Contractor</h3><div class="timeline-org">Outlier AI · Remote</div><p>Evaluating AI model outputs, designing prompts and rubrics, and supporting quality assurance of model training and evaluation data.</p><div class="tags"><span>LLMs</span><span>Prompt Engineering</span><span>Model Evaluation</span></div></div></div>
+<div class="timeline-item"><div class="timeline-date">APR 2023 — APR 2024</div><div class="timeline-content"><h3>Junior Data Engineer</h3><div class="timeline-org">Agile Datapro · Campbell, CA</div><p>Built automated resume and job-data extraction workflows, improving data quality and reducing manual effort. Created Azure Blob Storage pipelines and contributed to candidate matching workflows.</p><p>Developed telecom analytics solutions using GCP, PostgreSQL, Power BI, and predictive models. Integrated a conversational analytics assistant using Microsoft Power Virtual Agents and Power Automate.</p><div class="tags"><span>Python</span><span>Azure</span><span>GCP</span><span>PostgreSQL</span><span>Power BI</span><span>ETL</span></div></div></div>
+<div class="timeline-item"><div class="timeline-date">JAN 2022 — MAY 2022</div><div class="timeline-content"><h3>Data Science & Machine Learning Intern</h3><div class="timeline-org">Ascend Technology Inc. · San Jose, CA</div><p>Contributed to NeuroScan, a brain tumor detection research project, exploring MRI preprocessing and image classification with convolutional neural networks and support vector machines.</p><a class="text-link" href="https://github.com/omidk414/NeuroScan" target="_blank" rel="noopener noreferrer">View research project ↗</a><div class="tags"><span>Python</span><span>TensorFlow</span><span>OpenCV</span><span>Machine Learning</span></div></div></div>
+</div></section>
+
+<section class="content-section reveal"><div class="section-kicker">EDUCATION</div><div class="bento-grid"><article class="feature-card"><h3>University of California, Berkeley</h3><p>Master of Information and Data Science (MIDS)</p><div class="tags"><span>Data Science</span><span>Machine Learning</span><span>Statistics</span></div></article><article class="feature-card"><h3>California State University, East Bay</h3><p>Bachelor of Science in Computer Science</p><div class="tags"><span>Algorithms</span><span>Operating Systems</span><span>Software Engineering</span></div></article></div></section>

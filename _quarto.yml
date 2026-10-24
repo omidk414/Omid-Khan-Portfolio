@@ -1,33 +1,39 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "Welcome To My Portfolio!"
+  title: "Omid Khan | Data Engineer"
+  site-url: https://omidk414.github.io/
   navbar:
+    background: dark
+    pinned: true
+    title: "OK<span class='brand-dot'>.</span>"
     left:
       - href: index.qmd
         text: Home
-      - work_experience.qmd
-      - projects.qmd
-      
-    tools:
-      - icon: linkedin
-        href: https://www.linkedin.com/in/omid-khan
-        target: _blank
+      - href: projects.qmd
+        text: Projects
+      - href: work_experience.qmd
+        text: Experience
+    right:
       - icon: github
         href: https://github.com/omidk414
-        target: _blank
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/omid-khan
+        aria-label: LinkedIn
   page-footer:
-    right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2024, Omid Khan"
-    
+    left: "© 2026 Omid Khan"
+    right: "Built with Quarto · Hosted on GitHub Pages"
 
 format:
   html:
-    theme: cerulean
-    toc: true
-    css: styles.css  # Link to your custom CSS file
+    theme: darkly
+    css: styles.css
+    include-after-body: effects.html
+    toc: false
+    smooth-scroll: true
+    page-layout: full
 
 editor: source
-
