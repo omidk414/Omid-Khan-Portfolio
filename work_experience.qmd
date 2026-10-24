@@ -3,6 +3,7 @@ title: "Experience"
 title-block-banner: false
 ---
 
+```{=html}
 <div class="page-intro reveal"><div class="section-kicker">CAREER & EDUCATION</div><h1>Experience that <span class="gradient-text">delivers.</span></h1><p>Building data products, automation, and intelligent systems across industry and research.</p></div>
 
 <section class="content-section reveal"><div class="section-kicker">PROFESSIONAL EXPERIENCE</div><div class="timeline">
@@ -12,3 +13,4 @@ title-block-banner: false
 </div></section>
 
 <section class="content-section reveal"><div class="section-kicker">EDUCATION</div><div class="bento-grid"><article class="feature-card"><h3>University of California, Berkeley</h3><p>Master of Information and Data Science (MIDS)</p><div class="tags"><span>Data Science</span><span>Machine Learning</span><span>Statistics</span></div></article><article class="feature-card"><h3>California State University, East Bay</h3><p>Bachelor of Science in Computer Science</p><div class="tags"><span>Algorithms</span><span>Operating Systems</span><span>Software Engineering</span></div></article></div></section>
+```

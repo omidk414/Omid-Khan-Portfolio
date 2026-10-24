@@ -3,6 +3,7 @@ title: "Home"
 title-block-banner: false
 ---
 
+```{=html}
 <div id="particles" aria-hidden="true"><canvas id="network-canvas"></canvas></div>
 
 <section class="hero reveal">
@@ -10,7 +11,7 @@ title-block-banner: false
   <h1>Hi, I'm <span class="gradient-text">Omid Khan.</span></h1>
   <p class="hero-subtitle">I build <span id="typed-text">intelligent data systems</span><span class="cursor">|</span></p>
   <p class="hero-description">Data engineer and computer scientist building scalable pipelines, practical machine learning, and products that turn complex information into useful decisions. M.S. in Data Science from UC Berkeley.</p>
-  <div class="hero-actions"><a class="btn-primary" href="projects.qmd">Explore my projects <span>↗</span></a><a class="btn-secondary" href="work_experience.qmd">View experience</a></div>
+  <div class="hero-actions"><a class="btn-primary" href="projects.html">Explore my projects <span>↗</span></a><a class="btn-secondary" href="work_experience.html">View experience</a></div>
   <div class="social-links"><a href="https://github.com/omidk414" target="_blank" rel="noopener noreferrer">GitHub ↗</a><a href="https://www.linkedin.com/in/omid-khan" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></div>
 </section>
 
@@ -38,7 +39,7 @@ title-block-banner: false
 
 <section class="content-section reveal">
   <div class="section-kicker">03 / SELECTED WORK</div>
-  <div class="section-heading-row"><h2>Projects & impact</h2><a class="text-link" href="projects.qmd">All projects ↗</a></div>
+  <div class="section-heading-row"><h2>Projects & impact</h2><a class="text-link" href="projects.html">All projects ↗</a></div>
   <div class="project-grid">
     <article class="project-card"><div class="project-top"><span class="project-number">01 / MACHINE LEARNING</span><span class="project-symbol">↗</span></div><h3>CIFAR-10 Image Classification</h3><p>Convolutional neural network for classifying images across ten categories, achieving 70.34% test accuracy.</p><div class="tags"><span>Python</span><span>TensorFlow</span><span>Keras</span></div><a class="stretched-link" href="https://github.com/omidk414/Image_Classification" target="_blank" rel="noopener noreferrer" aria-label="View CIFAR-10 project on GitHub"></a></article>
     <article class="project-card"><div class="project-top"><span class="project-number">02 / IOT</span><span class="project-symbol">↗</span></div><h3>Smart Knock Detection</h3><p>Arduino-based security prototype with Python event processing, notifications, and a Flask interface.</p><div class="tags"><span>Arduino</span><span>Python</span><span>Flask</span></div><a class="stretched-link" href="https://github.com/omidk414/IoT-Knock-Detection-System" target="_blank" rel="noopener noreferrer" aria-label="View knock detection project on GitHub"></a></article>
@@ -47,3 +48,4 @@ title-block-banner: false
 </section>
 
 <section class="contact-section reveal"><div class="section-kicker">04 / CONNECT</div><h2>Let's build something <span class="gradient-text">meaningful.</span></h2><p>Interested in data engineering, AI, and ambitious software projects? Let's connect.</p><a class="btn-primary" href="https://www.linkedin.com/in/omid-khan" target="_blank" rel="noopener noreferrer">Connect on LinkedIn ↗</a></section>
+```

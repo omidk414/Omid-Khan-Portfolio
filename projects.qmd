@@ -3,6 +3,7 @@ title: "Projects"
 title-block-banner: false
 ---
 
+```{=html}
 <div class="page-intro reveal"><div class="section-kicker">SELECTED PROJECTS</div><h1>Things I've <span class="gradient-text">built.</span></h1><p>Hands-on work in machine learning, computer vision, IoT, and software engineering.</p></div>
 
 <div class="project-grid projects-page-grid">
@@ -11,3 +12,4 @@ title-block-banner: false
 <article class="project-card reveal"><div class="project-top"><span class="project-number">2022 · MEDICAL IMAGING</span><span class="project-symbol">↗</span></div><h3>NeuroScan</h3><p>Explored machine learning methods for brain tumor detection using MRI imagery, including preprocessing and classification with CNNs and support vector machines.</p><div class="tags"><span>Python</span><span>OpenCV</span><span>TensorFlow</span><span>SVM</span></div><a class="stretched-link" href="https://github.com/omidk414/NeuroScan" target="_blank" rel="noopener noreferrer" aria-label="Open NeuroScan repository"></a></article>
 <article class="project-card reveal"><div class="project-top"><span class="project-number">NOV 2021 · ETHICS & WEB</span><span class="project-symbol">↗</span></div><h3>First-Step Company</h3><p>Collaborated on a nonprofit technology concept emphasizing ethical design, accessibility, and transparent data practices. Created a documented project wiki and coordinated team deliverables.</p><div class="tags"><span>GitHub</span><span>HTML</span><span>Documentation</span></div><a class="stretched-link" href="https://github.com/omidk414/First-Step/wiki" target="_blank" rel="noopener noreferrer" aria-label="Open First-Step wiki"></a></article>
 </div>
+```
