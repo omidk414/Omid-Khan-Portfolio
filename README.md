@@ -24,3 +24,6 @@ A responsive dark-themed portfolio built with Quarto, custom CSS, and vanilla Ja
 - Confirm all employment dates, educational credentials, and project metrics before publishing.
 
 Note: The old `project.qmd` must be named `projects.qmd`, and the Quarto configuration filename must be `_quarto.yml`.
+
+
+Certification cards added to `work_experience.qmd` under Professional Certifications.

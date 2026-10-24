@@ -14,3 +14,37 @@ title-block-banner: false
 
 <section class="content-section reveal"><div class="section-kicker">EDUCATION</div><div class="bento-grid"><article class="feature-card"><h3>University of California, Berkeley</h3><p>Master of Information and Data Science (MIDS)</p><div class="tags"><span>Data Science</span><span>Machine Learning</span><span>Statistics</span></div></article><article class="feature-card"><h3>California State University, East Bay</h3><p>Bachelor of Science in Computer Science</p><div class="tags"><span>Algorithms</span><span>Operating Systems</span><span>Software Engineering</span></div></article></div></section>
 ```
+
+```{=html}
+
+<section class="content-section reveal" id="certifications">
+  <div class="section-kicker">PROFESSIONAL CERTIFICATIONS</div>
+  <h2>Credentials &amp; <span class="gradient-text">continuous learning.</span></h2>
+  <div class="cert-grid">
+    <article class="feature-card cert-card">
+      <div class="cert-heading"><span class="cert-mark">✦</span><span class="cert-date">OCT 2026</span></div>
+      <h3>AI Orchestration Fundamentals</h3>
+      <p class="cert-issuer">Astronomer Certified</p>
+      <p>AI orchestration fundamentals, Apache Airflow and Dagster.</p>
+      <div class="tags"><span>AI Orchestration</span><span>Apache Airflow</span><span>Dagster</span></div>
+      <a class="text-link cert-link" href="https://www.credly.com/badges/8285635d-61b0-48df-b495-0a6ec7b5e3ea/linked_in_profile" target="_blank" rel="noopener noreferrer">Verify credential ↗</a>
+    </article>
+    <article class="feature-card cert-card">
+      <div class="cert-heading"><span class="cert-mark">✦</span><span class="cert-date">OCT 2025</span></div>
+      <h3>DAG Authoring for Apache Airflow 3</h3>
+      <p class="cert-issuer">Astronomer Certification</p>
+      <p>Workflow orchestration and DAG authoring using Apache Airflow 3.</p>
+      <div class="tags"><span>Apache Airflow 3</span><span>DAG Authoring</span></div>
+      <a class="text-link cert-link" href="https://www.credly.com/badges/bc15001e-6492-4bb9-a14c-db8521107378/linked_in_profile" target="_blank" rel="noopener noreferrer">Verify credential ↗</a>
+    </article>
+    <article class="feature-card cert-card">
+      <div class="cert-heading"><span class="cert-mark">✦</span><span class="cert-date">MAR 2024</span></div>
+      <h3>Apache Airflow Fundamentals</h3>
+      <p class="cert-issuer">Astronomer Certification</p>
+      <p>Foundational concepts of Apache Airflow and data workflow orchestration.</p>
+      <div class="tags"><span>Apache Airflow</span><span>Data Pipelines</span></div>
+      <span class="cert-note">Credential URL not provided</span>
+    </article>
+  </div>
+</section>
+```
