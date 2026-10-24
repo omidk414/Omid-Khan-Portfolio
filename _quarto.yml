@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Omid Khan | Data Engineer"
-  site-url: https://omidk414.github.io/
+  site-url: https://omidk414.github.io/Omid-Khan-Portfolio/
   navbar:
     background: dark
     pinned: true
